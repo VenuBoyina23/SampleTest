@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to Devops.....Venu Boyina(SRE)!</h2>
+<h2>Deploying Web Applications using Devops Tools!</h2>
 </body>
 </html>
